@@ -8,7 +8,7 @@ public class ArrayPairSum {
                     System.out.println(arr[i] + " " + arr[j]);
                 }
             }
-
+// test i run
         }
     }
 }
