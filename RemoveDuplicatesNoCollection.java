@@ -4,6 +4,8 @@ public class RemoveDuplicatesNoCollection {
 
     static int[] removeDuplicates(int[] arr) {
 
+        System.out.println("Test");
+
         Arrays.sort(arr);
         int n = arr.length;
         int[] temp = new int[n];
